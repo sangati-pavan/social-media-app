@@ -46,7 +46,7 @@ This social media platform allows users to interact by creating posts, commentin
 
     4.1 Clone the repository
 
-        git clone https://github.com/your-username/social-media-app.git
+        git clone https://github.com/sangati-pavan/social-media-app.git
         cd social-media-app
         
     4.2 Install dependencies
